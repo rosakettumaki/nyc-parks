@@ -8,3 +8,24 @@ My main focus was to build a nice-looking scrollytelling piece, combining beauti
 Since I had a lot of footage from Central Park, the top video is from my own material, edited in Final Cut Pro. Unfortunately, I didn’t know how to upload a large video to GitHub, so I had to scale it down to meet GitHub’s limits. Along the way, I also learned that I could maybe use YouTube to host videos instead of uploading them directly — but I didn’t have time to set that up for this project.
 
 So, the truth is, I didn’t create exactly the piece I had originally envisioned — but I learned so much, and now I know what I need to figure out next time to actually pull off a project like this.
+
+
+*** THE PROCESS ***
+
+The main idea was to create a story that feels like a sunny day, gliding effortlessly through the parks.
+
+
+1. Collected data from the NYC Parks website.
+2. Created graphics and maps using Datawrapper.
+3. Searched for photos online.
+4. Edited a video using footage from my iPhone gallery.
+5. Researched information about the parks from online sources.
+6. Wrote the text.
+7. Built a narrative where the text and photos work together to move the story forward in a "conversation."
+
+*** TECH USED ***
+
+Numbers
+HTLM / CSS
+Final Cut Pro
+
