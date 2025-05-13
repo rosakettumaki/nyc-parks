@@ -26,23 +26,24 @@ Steps I followed:
 
 This project began with some super ambitious goals: I wanted to visit multiple New York City parks and film video interviews with people enjoying them. I had a weekend booked for my big park tour — but then it rained the whole time. After that, life got in the way, and I didn’t manage to find time for visiting in parks. Since my main goal was to improve my skills with scrollytelling rather than in photography, I had to move forward in the process in the order to get forward in time.
 
-I sourced visuals from Pexels and Wikimedia Commons, and built a scrollytelling piece using those images alongside thoughtful text and simple data visualizations. The final story aims to feel like a sunny walk through the parks, where each scroll reveals a new part of the journey — both visual and narrative.
+I sourced visuals from Pexels and Wikimedia Commons, and built a scrollytelling piece using those images alongside text and data visualizations. The final story aims to feel like a sunny walk through the parks, where each scroll reveals a new part of the journey — leading the reader to a new park.
 
 This was my first attempt at combining video, text, data, and images into one scrollytelling piece. While it’s not exactly what I had in mind at the start, I learned a lot about what’s needed to make this kind of story come to life.
 
 One piece of original footage did make it in: the top video is from Central Park, filmed on my phone and edited in Final Cut Pro. I had to compress it quite a bit to meet GitHub’s file size limits — but next time, I’ll explore hosting video on YouTube or Vimeo for better quality and playback.
 
 
-✏️ ***Lessons Learned /  To-Do / Future Improvements***
+✏️ ***Lessons Learned / To-Do / Future Improvements***
 
 What did I learn from my mistakes:
 - Always have a backup plan for weather-dependent shoots. 
 - Hosting large videos on GitHub is not possible.
 - Scrollytelling requires thoughtful pacing: images, data, and narrative need to work as a team.
 
-How this could be improved:
-- I could Upload the Central Park video to YouTube and embed the HD version
+This could be improved by:
+- Uploading the Central Park video to YouTube and embed the HD version
 - Doing interviews with park visitors and include their voices in the piece
-- Replace stock photos with original photography
-- Make the maps better and adding more details about the parks
-- Make the layout more responsive on mobile
+- Replacing stock photos with original photography
+- Making the maps better and adding more details about the parks
+- Making the layout more responsive on mobile
+- Improving the data vizualisations moving them from Datawrapper to Illustrator, maybe by using some park themed styles like leaf shape as a bar for a bar chart etc. 
