@@ -11,7 +11,7 @@ Steps I followed:
 4. Edited original footage from Central Park. The videos were something I had filmed during my everyday walks/runs at the park.
 3. Built charts and maps with Datawrapper.
 4. Wrote the narrative.
-5. Designed the page using HTML/CSS to create a simple but immersive scroll-based layout.
+5. Designed the page using HTML/CSS to create a scroll-based layout.
 
 
 💻 ***Tech Used***
