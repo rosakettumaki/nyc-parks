@@ -1,31 +1,48 @@
-*** ABOUT THE PROJECT ***
 
-For this project, I had some super ambitious goals — I wanted to visit all these parks and film video interviews with people visiting them.
-Unfortunately, the weekend I had booked for my big park tour ended up being rainy, and after that, I never found the time to do it. So, I ended up using photos from Pexels and Wikimedia Commons instead.
+🛠️ ***Summary of the Process***
 
-My main focus was to build a nice-looking scrollytelling piece, combining beautiful images, thoughtful text, and a visual narrative where the story moves forward through both photos and writing. This was my very first time trying something like this, and I think it’s a good start.
+My goal was to do a scrolly story that feels like a walk through parks. I wanted to introduce the largest NYC parks to the audience. 
 
-Since I had a lot of footage from Central Park, the top video is from my own material, edited in Final Cut Pro. Unfortunately, I didn’t know how to upload a large video to GitHub, so I had to scale it down to meet GitHub’s limits. Along the way, I also learned that I could maybe use YouTube to host videos instead of uploading them directly — but I didn’t have time to set that up for this project.
-
-So, the truth is, I didn’t create exactly the piece I had originally envisioned — but I learned so much, and now I know what I need to figure out next time to actually pull off a project like this.
-
-
-*** THE PROCESS ***
-
-The main idea was to create a story that feels like a sunny day, gliding effortlessly through the parks.
-
+Steps I followed:
 
 1. Collected data from the NYC Parks website.
-2. Created graphics and maps using Datawrapper.
-3. Searched for photos online.
-4. Edited a video using footage from my iPhone gallery.
-5. Researched information about the parks from online sources.
-6. Wrote the text.
-7. Built a narrative where the text and photos work together to move the story forward in a "conversation."
+2. Researched facts, history, and trivia about each park featured.
+3. Found photos from open-license sources like Pexels and Wikimedia Commons.
+4. Edited original footage from Central Park. The videos were something I had filmed during my everyday walks/runs at the park.
+3. Built charts and maps with Datawrapper.
+4. Wrote the narrative.
+5. Designed the page using HTML/CSS to create a simple but immersive scroll-based layout.
 
-*** TECH USED ***
 
-Numbers
-HTLM / CSS
-Final Cut Pro
+💻 ***Tech Used***
 
+- HTML / CSS – For page structure and styling
+- Final Cut Pro – For editing the video
+- Datawrapper – For creating maps and charts
+- Numbers – For early data exploration and notes
+- GitHub Pages – To host the final piece
+
+🌳 ***About the Project***
+
+This project began with some super ambitious goals: I wanted to visit multiple New York City parks and film video interviews with people enjoying them. I had a weekend booked for my big park tour — but then it rained the whole time. After that, life got in the way, and I didn’t manage to find time for visiting in parks. Since my main goal was to improve my skills with scrollytelling rather than in photography, I had to move forward in the process in the order to get forward in time.
+
+I sourced visuals from Pexels and Wikimedia Commons, and built a scrollytelling piece using those images alongside thoughtful text and simple data visualizations. The final story aims to feel like a sunny walk through the parks, where each scroll reveals a new part of the journey — both visual and narrative.
+
+This was my first attempt at combining video, text, data, and images into one scrollytelling piece. While it’s not exactly what I had in mind at the start, I learned a lot about what’s needed to make this kind of story come to life.
+
+One piece of original footage did make it in: the top video is from Central Park, filmed on my phone and edited in Final Cut Pro. I had to compress it quite a bit to meet GitHub’s file size limits — but next time, I’ll explore hosting video on YouTube or Vimeo for better quality and playback.
+
+
+✏️ ***Lessons Learned /  To-Do / Future Improvements***
+
+What did I learn from my mistakes:
+- Always have a backup plan for weather-dependent shoots. 
+- Hosting large videos on GitHub is not possible.
+- Scrollytelling requires thoughtful pacing: images, data, and narrative need to work as a team.
+
+How this could be improved:
+- I could Upload the Central Park video to YouTube and embed the HD version
+- Doing interviews with park visitors and include their voices in the piece
+- Replace stock photos with original photography
+- Make the maps better and adding more details about the parks
+- Make the layout more responsive on mobile
